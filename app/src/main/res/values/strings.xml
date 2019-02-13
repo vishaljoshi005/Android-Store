@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">My Store</string>
+    <string name="category">Categories</string>
 </resources>
