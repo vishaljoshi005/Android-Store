@@ -30,7 +30,7 @@
         android:layout_marginBottom="8dp"
         android:contentDescription="@string/default_content_desc"
         android:fontFamily="@font/montserrat"
-        android:text="HATS"
+        android:text="@string/hats"
         android:textColor="@android:color/white"
         android:textSize="24sp"
         android:textStyle="bold"

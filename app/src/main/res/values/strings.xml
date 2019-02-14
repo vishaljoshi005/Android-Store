@@ -2,4 +2,5 @@
     <string name="app_name">My Store</string>
     <string name="category">Categories</string>
     <string name="default_content_desc">Shopping</string>
+    <string name="hats">HATS</string>
 </resources>
