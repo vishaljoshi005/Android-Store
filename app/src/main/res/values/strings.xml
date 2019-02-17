@@ -3,4 +3,5 @@
     <string name="category">Categories</string>
     <string name="default_content_desc">Shopping</string>
     <string name="hats">HATS</string>
+    <string name="products">Products</string>
 </resources>
